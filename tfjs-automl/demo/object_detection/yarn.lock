@@ -620,8 +620,10 @@
   resolved "https://registry.yarnpkg.com/@swc/helpers/-/helpers-0.2.14.tgz#20288c3627442339dd3d743c944f7043ee3590f0"
   integrity sha512-wpCQMhf5p5GhNg2MmGKXzUNwxe7zRiCsmqYsamez2beP7mKPCSiu+BjZcdN95yYSzO857kr0VfQewmGpS77nqA==
 
-"@tensorflow/tfjs-automl@file:../../dist":
-  version "0.0.0"
+"@tensorflow/tfjs-automl@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-automl/-/tfjs-automl-0.1.0.tgz#20bf6dc1bc64d992cd1706265b4474c6196b87a3"
+  integrity sha512-BH6WJnAThQF4UdWUfLcQ5wLnuC0QqeHqPAmkpoyeD6wpLRXH6vQkAPpCUodY7stcJEyGCr1ozxwu8j7T2ZvX8g==
 
 "@tensorflow/tfjs-backend-cpu@3.14.0":
   version "3.14.0"

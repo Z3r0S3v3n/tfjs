@@ -17,7 +17,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@tensorflow/tfjs-automl": "file:../../dist",
+    "@tensorflow/tfjs-automl": "0.1.0",
     "@tensorflow/tfjs-backend-webgl": "^3.0.0-rc.1",
     "@tensorflow/tfjs-converter": "^3.0.0-rc.1",
     "@tensorflow/tfjs-core": "^3.0.0-rc.1"
