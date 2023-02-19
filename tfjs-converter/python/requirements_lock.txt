@@ -678,7 +678,7 @@ pillow==9.3.0 \
     --hash=sha256:ebf2029c1f464c59b8bdbe5143c79fa2045a581ac53679733d3a91d400ff9efb \
     --hash=sha256:f1ff2ee69f10f13a9596480335f406dd1f70c3650349e2be67ca3139280cade0
     # via matplotlib
-protobuf==3.9.2 \
+protobuf==3.18.3 \
     --hash=sha256:26c0d756c7ad6823fccbc3b5f84c619b9cc7ac281496fe0a9d78e32023c45034 \
     --hash=sha256:3200046e4d4f6c42ed66257dbe15e2e5dc76072c280e9b3d69dc8f3a4fa3fbbc \
     --hash=sha256:368f1bae6dd22d04fd2254d30cd301863408a96ff604422e3ddd8ab601f095a4 \
@@ -840,7 +840,7 @@ tensorboard-data-server==0.6.1 \
 tensorboard-plugin-wit==1.8.1 \
     --hash=sha256:ff26bdd583d155aa951ee3b152b3d0cffae8005dc697f72b44a8e8c2a77a8cbe
     # via tensorboard
-tensorflow==2.10.0 \
+tensorflow==2.10.1 \
     --hash=sha256:0701da16a3d6d34763cd9ced6467cee24c02c9abf0d1a48ba59ea5a8d0421cec \
     --hash=sha256:0a3b58d90fadb5bdf81a964bea73bb89019a9d1e9ac12de75375c8f65e0d7570 \
     --hash=sha256:25e1e898bc1df521af9a8bfe0e511124379a6414083234ec67c6ab212ad12b2f \
@@ -935,7 +935,7 @@ urllib3==1.26.13 \
     --hash=sha256:47cc05d99aaa09c9e72ed5809b60e7ba354e64b59c9c173ac3018642d8bb41fc \
     --hash=sha256:c083dd0dce68dbfbe1129d5271cb90f9447dea7d52097c6e0126120c521ddea8
     # via requests
-werkzeug==2.2.2 \
+werkzeug==2.2.3 \
     --hash=sha256:7ea2d48322cc7c0f8b3a215ed73eabd7b5d75d0b50e31ab006286ccff9e00b8f \
     --hash=sha256:f979ab81f58d7318e064e99c4506445d60135ac5cd2e177a2de0089bfd4c9bd5
     # via tensorboard
