@@ -1,4 +1,4 @@
-FROM node:16.13.2-buster-slim
+FROM node:16.20-buster-slim
 
 # Install cloud-sdk
 ARG CLOUD_SDK_VERSION=355.0.0
