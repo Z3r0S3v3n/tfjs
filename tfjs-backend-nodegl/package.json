@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@tensorflow/tfjs-core": "^3.3.0",
-    "node-gles": "^0.0.13"
+    "node-gles": "^0.0.17"
   },
   "devDependencies": {
     "@types/jasmine": "~2.8.6",
