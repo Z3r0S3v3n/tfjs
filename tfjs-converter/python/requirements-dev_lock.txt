@@ -652,7 +652,7 @@ pandas==1.5.2 \
     --hash=sha256:e9dbacd22555c2d47f262ef96bb4e30880e5956169741400af8b306bbb24a273 \
     --hash=sha256:f6257b314fc14958f8122779e5a1557517b0f8e500cfb2bd53fa1f75a8ad0af2
     # via tensorflow-decision-forests
-pillow==9.3.0 \
+pillow==10.3.0 \
     --hash=sha256:03150abd92771742d4a8cd6f2fa6246d847dcd2e332a18d0c15cc75bf6703040 \
     --hash=sha256:073adb2ae23431d3b9bcbcff3fe698b62ed47211d0716b067385538a1b0f28b8 \
     --hash=sha256:0b07fffc13f474264c336298d1b4ce01d9c5a011415b79d4ee5527bb69ae6f65 \
@@ -770,7 +770,7 @@ pygments==2.13.0 \
 pyinquirer==1.0.3 \
     --hash=sha256:c9a92d68d7727fbd886a7908c08fd9e9773e5dc211bf5cbf836ba90d366dee51
     # via -r tfjs-converter/python/requirements-dev.txt
-pylint==2.5.0 ; python_version > "3.0" \
+pylint==2.6.1 ; python_version > "3.0" \
     --hash=sha256:588e114e3f9a1630428c35b7dd1c82c1c93e1b0e78ee312ae4724c5e1a1e0245 \
     --hash=sha256:bd556ba95a4cf55a1fc0004c00cf4560b1e70598a54a74c6904d933c8f3bd5a8
     # via -r tfjs-converter/python/requirements-dev.txt
