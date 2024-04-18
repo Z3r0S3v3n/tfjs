@@ -286,7 +286,7 @@ jaxlib==0.3.25 \
     # via
     #   chex
     #   optax
-keras==2.10.0 \
+keras==2.13.1rc0 \
     --hash=sha256:26a6e2c2522e7468ddea22710a99b3290493768fc08a39e75d1173a0e3452fdf
     # via tensorflow
 keras-preprocessing==1.1.2 \
