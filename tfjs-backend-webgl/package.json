@@ -33,7 +33,7 @@
     "@tensorflow/tfjs-backend-cpu": "link:../link-package/node_modules/@tensorflow/tfjs-backend-cpu",
     "@types/offscreencanvas": "~2019.3.0",
     "@types/seedrandom": "^2.4.28",
-    "@types/webgl-ext": "0.0.30",
+    "@types/webgl-ext": "0.0.37",
     "seedrandom": "^3.0.5"
   },
   "peerDependencies": {
