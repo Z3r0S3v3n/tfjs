@@ -2,8 +2,16 @@ flax>=0.6.2,<0.6.3
 jax>=0.3.16
 importlib_resources>=5.9.0
 protobuf<3.20,>=3.9.2
-tensorflow>=2.10.0,<3
+tensorflow>=2.12.0rc1,<3
 tensorflow-decision-forests>=1.0.1
 six>=1.12.0,<2
 tensorflow-hub>=0.7.0,<0.13; python_version >= "3"
 packaging~=20.9
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
+keras>=2.13.1rc0 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
