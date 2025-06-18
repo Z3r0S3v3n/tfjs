@@ -720,7 +720,7 @@ prompt-toolkit==1.0.14 \
     --hash=sha256:82c7f8e07d7a0411ff5367a5a8ff520f0112b9179f3e599ee8ad2ad9b943d911 \
     --hash=sha256:cc66413b1b4b17021675d9f2d15d57e640b06ddfd99bb724c73484126d22622f
     # via pyinquirer
-protobuf==3.19.6 \
+protobuf==4.25.8 \
     --hash=sha256:010be24d5a44be7b0613750ab40bc8b8cedc796db468eae6c779b395f50d1fa1 \
     --hash=sha256:0469bc66160180165e4e29de7f445e57a34ab68f49357392c5b2f54c656ab25e \
     --hash=sha256:0c0714b025ec057b5a7600cb66ce7c693815f897cfda6d6efb58201c472e3437 \
@@ -922,7 +922,7 @@ regex==2022.10.31 \
     --hash=sha256:e613a98ead2005c4ce037c7b061f2409a1a4e45099edb0ef3200ee26ed2a69a8 \
     --hash=sha256:ef4163770525257876f10e8ece1cf25b71468316f61451ded1a6f44273eedeb5
     # via pyinquirer
-requests==2.28.1 \
+requests==2.32.4 \
     --hash=sha256:7c5599b102feddaa661c826c56ab4fee28bfd17f5abca1ebbe3e7f19d7c97983 \
     --hash=sha256:8fefa2a1a1365bf5520aac41836fbee479da67864514bdb821f31ce07ce65349
     # via
